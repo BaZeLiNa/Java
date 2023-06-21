@@ -1,10 +1,10 @@
-package ua.lviv.iot.algo.part1.lab1;
-
-import lombok.*;
+package ua.lviv.iot;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
+
+import lombok.*;
 
 @Setter
 @Getter
